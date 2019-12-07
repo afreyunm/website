@@ -7,7 +7,7 @@ date: 2019-11-13
 
 {% include figure.html
   class="img-center"
-  width="90%"
+  width="80%"
   caption="Walnut Creek Crossing in Great Bend, Kansas today."
   image-url="river-bend-barton.jpg"
   source-url="https://images.app.goo.gl/gGWMEjiCZ6h6GWnc6"
@@ -104,7 +104,7 @@ There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the 
 
 {% include figure.html
   class="img-center"
-  width="90%"
+  width="80%"
   caption="archaeologists in the 60s at Walnut Creek"
   image-url="arch-ranch.jpg"
   source-url= "https://www.kshs.org/publicat/khq/1971/graphics/71_2_barryarchdig.jpg"
