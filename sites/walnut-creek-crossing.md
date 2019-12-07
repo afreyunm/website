@@ -105,7 +105,7 @@ There are 27 Walnut Creeks in the state of Kansas. [^8] You can still visit the 
 {% include figure.html
   class="img-center"
   width="90%"
-  caption="archaeology in the 60s"
+  caption="archaeologists in the 60s at Walnut Creek"
   image-url="arch-ranch.jpg"
   source-url= "https://www.kshs.org/publicat/khq/1971/graphics/71_2_barryarchdig.jpg"
 %}
